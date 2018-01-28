@@ -1,0 +1,75 @@
+body{
+	background-color: #e3e3e3;
+}
+.wrap{
+	font-family: sans-serif;
+	width: 80%;
+	margin:auto;
+	min-width: 600px;
+}
+.content{
+	float: left;
+	/*background-color: red;*/
+	width: 80%;
+}
+a{
+	color: red;
+}
+dt{
+	color: maroon;
+}
+dd{
+	color: purple;
+/*	width: 600px;
+*/}
+.Places{
+	color: maroon;
+}
+h1{
+	color:  maroon;
+	background-color: powderblue;
+	height: 70px;
+	text-align: center;
+	padding-top: 20px;
+	margin:auto;
+	border: 1px black solid;
+}
+img{
+	width: 90%;
+	height: 400px;
+}
+aside{
+	float: right;
+	width: 15%;
+/*	background-color: coral;
+*/	text-align: left;
+	height: 1000px;
+}
+h3{
+	/*margin-top: 0px;*/
+	color: maroon;
+}
+aside ul{
+	
+	padding-left: 0;
+}
+aside a{
+	text-decoration: none;
+	color:blue;
+}
+p{
+	width: 90%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+}
+th {
+    text-align: left;
+}
+dd{
+	width: 90%;
+}
